@@ -4,3 +4,6 @@ hossegor
 buenos aires
 peru
 cuba
+cambodge
+laos
+pakistan
